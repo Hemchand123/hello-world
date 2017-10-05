@@ -1,3 +1,5 @@
-
-Iam learning Angular Java Script and React Java Script right now.
-
+First registration page
+ 
+ user name 
+ password
+ submit button
