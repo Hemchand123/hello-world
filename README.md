@@ -1,6 +1,3 @@
-# hello-world
 
+Iam learning Angular Java Script and React Java Script right now.
 
-Hi There,
-
-This is Hemchand Hukumathirao singing in...right now...
